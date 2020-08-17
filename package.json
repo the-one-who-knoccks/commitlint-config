@@ -19,7 +19,7 @@
     "commitizen": {
       "path": "node_modules/cz-customizable"
     }
-  },  
+  },    
   "dependencies": {
     "-": "^0.0.1",
     "D": "^1.0.0",
