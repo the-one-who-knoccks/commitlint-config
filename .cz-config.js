@@ -59,7 +59,7 @@ module.exports = {
       name: ' 🧪 test:  Adding missing tests'
     },
     {
-      value: '🌈 chore',
+      value: '🌈 chore', 
       name:
         '🌈 chore:  Changes to the build process or auxiliary tools\n            and libraries such as documentation generation'
     },
