@@ -55,7 +55,7 @@ module.exports = {
       name: '🐎 perf: A code change that improves performance'
     },
     {
-      value: '🧪 test',
+      value: '🧪 test', 
       name: ' 🧪 test:  Adding missing tests'
     },
     {
